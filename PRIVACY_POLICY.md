@@ -1,11 +1,13 @@
 # 好看电视隐私政策
 
-更新日期：2026 年 7 月 24 日
+更新日期：2026 年 7 月 25 日
 
 开发者：YONG ZHENG  
 Bundle Identifier：`com.zhengyong.videoplayer`
 
-> 发布前待补充：公开支持网址、隐私政策网址和有效联系邮箱。
+支持网址：https://yongzheng784-star.github.io/IOSVideoPlayer001/  
+隐私政策网址：https://yongzheng784-star.github.io/IOSVideoPlayer001/PRIVACY_POLICY.html  
+联系邮箱：yongzheng784@gmail.com
 
 ## 1. 我们处理的信息
 
@@ -37,4 +39,4 @@ App 仅在你主动点击“粘贴”时读取剪贴板文字，用于填入视�
 
 ## 8. 政策变更与联系
 
-功能或数据处理方式发生变化时，本政策将相应更新。发布前，开发者应在此处和 App Store 产品页提供公开支持网址与有效联系邮箱。
+功能或数据处理方式发生变化时，本政策将相应更新。如有隐私相关问题，请发送邮件至 yongzheng784@gmail.com，或访问支持网址：https://yongzheng784-star.github.io/IOSVideoPlayer001/。
